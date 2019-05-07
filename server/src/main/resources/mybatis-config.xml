@@ -16,7 +16,7 @@
          as some drivers deny compatibility but still work -->
         <setting name="useGeneratedKeys" value="true"/>
         <!-- 设置控制台打印sql -->
-        <!--<setting name="logImpl" value="stdout_logging" />-->
+        <setting name="logImpl" value="stdout_logging" />
     </settings>
 
     <!-- Continue going here -->
